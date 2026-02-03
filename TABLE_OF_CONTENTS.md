@@ -4,7 +4,7 @@
 
 **Author:** Andrea Trenti  
 **Publication Date:** February 2026  
-**Total Length:** ~80-100 pages  
+**Total Length:** 27 pages  
 **References:** 188 citations
 
 ---
@@ -373,50 +373,15 @@ Comprehensive economic analysis examining AI's impact across productivity, infra
 
 ---
 
-## Appendices
-
-### Appendix A: Methodology Details
-- Data collection and triangulation approach
-- Source quality hierarchy and validation
-- Uncertainty quantification methods
-- Assumptions and limitations
-
-### Appendix B: Key Terms and Definitions
-- Artificial Intelligence
-- General-Purpose AI (GPAI)
-- Total Factor Productivity (TFP)
-- Hyperscaler
-- Task exposure vs. automation potential
-- Capital intensity metrics
-
-### Appendix C: Data Tables
-- Productivity forecasts comparison table
-- Capex projections by company and year
-- Market size estimates by source
-- Labor market statistics by sector
-- Adoption rates by industry and region
-- Energy consumption projections
-
-### Appendix D: Visual Supplements
-- GDP impact timeline (2025-2075)
-- Hyperscaler capex trends (2020-2026)
-- Market growth trajectories by segment
-- Employment displacement vs. creation
-- Adoption S-curves by sector
-- Energy demand scenarios
-
----
-
 ## Document Information
 
-**Format:** PDF, 80-100 pages  
+**Format:** PDF, 27 pages  
 **Publication:** February 2026  
 **Version:** 1.0  
-**Author:** Andrea Trenti  
-**Contact:** [GitHub repository]  
+**Author:** Andrea Trenti
 
 **Copyright Notice:**  
-© 2025 Andrea Trenti. All rights reserved. Analytical texts, tables, and structures are original works. Statistical data remains property of respective institutions. No open-source license granted. Reasonable excerpts permitted with attribution.
+© 2026 Andrea Trenti. All rights reserved. Analytical texts, tables, and structures are original works. Statistical data remains property of respective institutions. No open-source license granted. Reasonable excerpts permitted with attribution.
 
 **Citation Format:**  
 Trenti, A. (2026). The Economics of Artificial Intelligence: A Comprehensive Analysis. [Repository URL]
@@ -431,3 +396,4 @@ Trenti, A. (2026). The Economics of Artificial Intelligence: A Comprehensive Ana
 - 188 references from authoritative sources
 - Quantitative analysis across all dimensions
 - PDF format optimized for academic and professional use
+- Working draft, index missing and not finished paragrafs somewhere
